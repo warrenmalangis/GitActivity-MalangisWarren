@@ -1,3 +1,6 @@
 print("Warren N. Malangis")
 print("Cawit, Boac, Marinduque")
 print("May 08, 2002")
+print("Marinduque State College")
+print("Bachelor of Science in Information Technology")
+print("2C")
